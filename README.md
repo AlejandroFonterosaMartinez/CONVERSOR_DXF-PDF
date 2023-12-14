@@ -1,8 +1,7 @@
-DXF to PDF Converter with User Interface 🔄
+# DXF to PDF Converter with User Interface 🔄
 
-Usage:
-
-Select the folder containing the DXF files 📂
-Click on "Convert" to initiate the conversion process 🚀
-Please wait (the duration may vary based on the number of files) ⏳
-The PDFs will be generated in the same folder as the DXF files ✅
+**Usage:**
+1. Select the folder containing the DXF files 📂
+2. Click on "Convert" to initiate the conversion process 🚀
+3. Please wait (the duration may vary based on the number of files) ⏳
+4. The PDFs will be generated in the same folder as the DXF files ✅
